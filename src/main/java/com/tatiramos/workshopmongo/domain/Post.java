@@ -90,8 +90,4 @@ public class Post implements Serializable{
 		return Objects.equals(id, other.id);
 	}
 
-	
-	
-	
-
 }
